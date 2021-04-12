@@ -1,5 +1,5 @@
 # :godmode: :man: :woman: :older_man: Codificação de Rostos
-Projeto da área de visão computacional que visa o estudo de processos análogos ao hashing para codificação de rostos.
+Projeto da área de visão computacional que visa o estudo de processos análogos ao hashing para codificação de rostos!
 
 ## :family: Team
 [Caio Netto]()
